@@ -1,0 +1,5 @@
+# Required Keys
+name: "notKansas"
+type: theme
+description: "Certainly not Kansas..."
+core: 8.x
